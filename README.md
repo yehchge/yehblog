@@ -1,3 +1,12 @@
+
+- [ ] Figure out wormholes
+  - [ ] Call @arfon
+  - [ ] Research ([docs](http://en.wikipedia.org/wiki/Wormhole#Time_travel))
+  - [ ] Build prototype #15
+  - [ ] Test run #43 @world-domination/time-travel
+- [ ] ...?
+- [ ] Profit!
+
 練習使用RESTful Web Servicet技術，打造一個簡單書藉管理Web應用程式。(草稿) 可以放至[OpenShift](https://www.openshift.com)
 
 # RESTful in Action
